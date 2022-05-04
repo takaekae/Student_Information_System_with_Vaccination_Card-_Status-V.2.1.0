@@ -49,9 +49,9 @@
   </p>
 </div>
 <div>
-    <a href="https://ibb.co/pyWGzVV"><img src="https://i.ibb.co/7bzT2fs/image.png" alt="Register" width="280" height="120"></a>
-    <a href="https://ibb.co/3cN8RgV"><img src="https://i.ibb.co/qps4JTh/image.png " alt="Login" width="280" height="120"></a>
-    <a href="https://ibb.co/stPDyf8"><img src="https://i.ibb.co/8czT5vv/image.png " alt="Database" width="380" height="120"></a>
+    <a href="https://ibb.co/pyWGzVV"><img src="https://i.ibb.co/7bzT2fs/image.png" alt="Register" border="0" width="280" height="200"></a>
+    <a href="https://ibb.co/3cN8RgV"><img src="https://i.ibb.co/qps4JTh/image.png " alt="Login" border="0" width="280" height="200"></a>
+    <a href="https://ibb.co/stPDyf8"><img src="https://i.ibb.co/8czT5vv/image.png " alt="Database" border="0" width="380" height="200"></a>
 </div>
 
 
