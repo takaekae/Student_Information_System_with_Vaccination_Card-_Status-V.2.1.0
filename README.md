@@ -57,9 +57,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <img src="https://i.ibb.co/7bzT2fs/image.png" alt="Register" width="280" height="120">
-      <img src="https://i.ibb.co/qps4JTh/image.png " alt="Login" width="280" height="120">
-      <img src="https://i.ibb.co/8czT5vv/image.png " alt="Database" width="380" height="120">
+      <a href="https://ibb.co/pyWGzVV"><img src="https://i.ibb.co/7bzT2fs/image.png" alt="Register" width="280" height="120"></a>
+      <a href="https://ibb.co/3cN8RgV"><img src="https://i.ibb.co/qps4JTh/image.png " alt="Login" width="280" height="120"></a>
+      <a href="https://ibb.co/stPDyf8"><img src="https://i.ibb.co/8czT5vv/image.png " alt="Database" width="380" height="120"></a>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
