@@ -48,7 +48,11 @@
     <a href="https://github.com/Kiyo-18/Student_Information_System_with_Vaccination_Card-_Status-V.2.1.0/issues">Request Feature</a>
   </p>
 </div>
-
+<div>
+    <a href="https://ibb.co/pyWGzVV"><img src="https://i.ibb.co/7bzT2fs/image.png" alt="Register" width="280" height="120"></a>
+    <a href="https://ibb.co/3cN8RgV"><img src="https://i.ibb.co/qps4JTh/image.png " alt="Login" width="280" height="120"></a>
+    <a href="https://ibb.co/stPDyf8"><img src="https://i.ibb.co/8czT5vv/image.png " alt="Database" width="380" height="120"></a>
+</div>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -57,9 +61,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <a href="https://ibb.co/pyWGzVV"><img src="https://i.ibb.co/7bzT2fs/image.png" alt="Register" width="280" height="120"></a>
-      <a href="https://ibb.co/3cN8RgV"><img src="https://i.ibb.co/qps4JTh/image.png " alt="Login" width="280" height="120"></a>
-      <a href="https://ibb.co/stPDyf8"><img src="https://i.ibb.co/8czT5vv/image.png " alt="Database" width="380" height="120"></a>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
