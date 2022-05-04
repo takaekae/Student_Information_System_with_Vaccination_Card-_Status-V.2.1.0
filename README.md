@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://foodweb.me/">
-    <img src="https://i.ibb.co/G9x0RZX/sivcs.png" alt="Logo" width="150" height="120">
+    <img src="https://i.ibb.co/G9x0RZX/sivcs.png" alt="Logo" width="150" height="130">
   </a>
 
   <h2 align="center"><b>Student Information System with Vaccination Card Status</b></h2>
@@ -57,6 +57,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+      <img src="https://i.ibb.co/7bzT2fs/image.png" alt="Register" width="280" height="120">
+      <img src="https://i.ibb.co/qps4JTh/image.png " alt="Login" width="280" height="120">
+      <img src="https://i.ibb.co/8czT5vv/image.png " alt="Database" width="380" height="120">
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -73,9 +76,6 @@
     So I made up my mind to make this System called "Student Information System with Vaccination Card Status.
     This system is inspired by Safe Ormoc Qrcose in which you can enter as a student of Eastern Visayas State University, with effieciecy using QR Code.
     For us, this is quite useful for students and teachers in the campus in order to avoid intruder and much less hassle writing on a logbook.
-    <img src="https://i.ibb.co/7bzT2fs/image.png" alt="Register" width="280" height="120">
-    <img src="https://i.ibb.co/qps4JTh/image.png " alt="Login" width="280" height="120">
-    <img src="https://i.ibb.co/8czT5vv/image.png " alt="Database" width="380" height="120">
 
 
 
