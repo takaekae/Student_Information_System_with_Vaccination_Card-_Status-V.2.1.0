@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://foodweb.me/">
+  <a href="#">
     <img src="https://i.ibb.co/G9x0RZX/sivcs.png" alt="Logo" width="150" height="130">
   </a>
 
