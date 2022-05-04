@@ -48,9 +48,9 @@
     <a href="https://github.com/Kiyo-18/Student_Information_System_with_Vaccination_Card-_Status-V.2.1.0/issues">Request Feature</a>
   </p>
 </div>
-<div>
-    <a href="https://ibb.co/pyWGzVV"><img src="https://i.ibb.co/7bzT2fs/image.png" alt="Register" border="0" width="300" height="250"></a>
-    <a href="https://ibb.co/3cN8RgV"><img src="https://i.ibb.co/qps4JTh/image.png " alt="Login" border="0" width="300" height="250"></a>
+<div align="center">
+    <a href="https://ibb.co/pyWGzVV"><img src="https://i.ibb.co/7bzT2fs/image.png" alt="Register" border="0" width="310" height="250"></a>
+    <a href="https://ibb.co/3cN8RgV"><img src="https://i.ibb.co/qps4JTh/image.png " alt="Login" border="0" width="305" height="250"></a>
     <a href="https://ibb.co/stPDyf8"><img src="https://i.ibb.co/8czT5vv/image.png " alt="Database" border="0" width="380" height="250"></a>
 </div>
 
