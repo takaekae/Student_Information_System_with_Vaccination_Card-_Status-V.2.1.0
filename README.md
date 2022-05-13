@@ -77,6 +77,8 @@
     So I made up my mind to make this System called "Student Information System with Vaccination Card Status.
     This system is inspired by Safe Ormoc Qrcose in which you can enter as a student of Eastern Visayas State University, with effieciecy using QR Code.
     For us, this is quite useful for students and teachers in the campus in order to avoid intruder and much less hassle writing on a logbook.
+      
+    Pip installation: pip install Student-Information-System-with-Vaccination-Card-Status
 
 
 
