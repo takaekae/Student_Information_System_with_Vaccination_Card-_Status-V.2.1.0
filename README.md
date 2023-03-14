@@ -73,28 +73,15 @@
 ## About The Project
 
 
-    Our teacher asked us to make any kind of system using Python language.
-    So I made up my mind to make this System called "Student Information System with Vaccination Card Status.
-    This system is inspired by Safe Ormoc Qrcose in which you can enter as a student of Eastern Visayas State University, with effieciecy using QR Code.
-    For us, this is quite useful for students and teachers in the campus in order to avoid intruder and much less hassle writing on a logbook.
-      
+    The system is designed to enhance the safety and security of students and teachers on campus by efficiently verifying their vaccination status using     a QR code. Inspired by the "Safe Ormoc QR code" system, which is implemented at Eastern Visayas State University, this system is intended to             streamline the process of logging in and entering the campus.
+
+    Using Python language, this system enables students to input their personal information, including their vaccination card status. The system then         generates a unique QR code for each student, which can be scanned upon entry to the campus. The QR code will verify the student's identity and           vaccination status, ensuring that only authorized individuals are allowed access to the campus.
+
+    The Student Information System with Vaccination Card Status is an innovative solution that addresses the need for a safe and secure campus               environment. By leveraging the power of technology and automation, this system eliminates the need for manual logbooks and minimizes the risk of         unauthorized access to the campus. With its user-friendly interface and efficient functionality, this system is sure to be a valuable asset to any       educational institution.
+    
     Pip installation: pip install Student-Information-System-with-Vaccination-Card-Status
 
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
       
 <!-- CONTACT -->
