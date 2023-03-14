@@ -72,14 +72,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+```
+    The system is designed to enhance the safety and security of students and teachers on campus by efficiently verifying their vaccination status using a QR code. Inspired by the "Safe Ormoc QR code" system, which is implemented at Eastern Visayas State University, this system is intended to streamline the process of logging in and entering the campus.
 
-    The system is designed to enhance the safety and security of students and teachers on campus by efficiently verifying their vaccination status using     a QR code. Inspired by the "Safe Ormoc QR code" system, which is implemented at Eastern Visayas State University, this system is intended to             streamline the process of logging in and entering the campus.
+Using Python language, this system enables students to input their personal information, including their vaccination card status. The system then generates a unique QR code for each student, which can be scanned upon entry to the campus. The QR code will verify the student's identity and vaccination status, ensuring that only authorized individuals are allowed access to the campus.
 
-    Using Python language, this system enables students to input their personal information, including their vaccination card status. The system then         generates a unique QR code for each student, which can be scanned upon entry to the campus. The QR code will verify the student's identity and           vaccination status, ensuring that only authorized individuals are allowed access to the campus.
-
-    The Student Information System with Vaccination Card Status is an innovative solution that addresses the need for a safe and secure campus               environment. By leveraging the power of technology and automation, this system eliminates the need for manual logbooks and minimizes the risk of         unauthorized access to the campus. With its user-friendly interface and efficient functionality, this system is sure to be a valuable asset to any       educational institution.
-    
-    Pip installation: pip install Student-Information-System-with-Vaccination-Card-Status
+The Student Information System with Vaccination Card Status is an innovative solution that addresses the need for a safe and secure campus environment. By leveraging the power of technology and automation, this system eliminates the need for manual logbooks and minimizes the risk of unauthorized access to the campus. With its user-friendly interface and efficient functionality, this system is sure to be a valuable asset to any educational institution.
+```   
+ Pip installation: pip install Student-Information-System-with-Vaccination-Card-Status
 
 
 
