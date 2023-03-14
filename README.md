@@ -99,7 +99,7 @@ The Student Information System with Vaccination Card Status is an innovative sol
   <img align="left" alt="Kiyo Ayanokouji - Facebook" width="22px" src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width: 100%;">
 </a><br>
 <br>
-Project Link: https://github.com/Kiyo-18/Student_Information_System_with_Vaccination_Card-_Status-V.2.1.0
+Project Link: [Student_Information_System_with_Vaccination_Card-_Status-V.2.1.0](https://drive.google.com/file/d/1S5cPcM2fP3lv1vL05qbCr2ZxK7zmuJ8F/view?usp=share_link)
 <br>
 For the Food Web webiste my classmate made a separate repository on his github account. <br>
 👇 The link is provided below:  <br>
